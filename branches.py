@@ -1,5 +1,6 @@
 myName = "Austin";
 myHometown = "Gainesville, Florida";
 
-yourName = "Josephine";
-yourHowetown = "Paris";
+yourName2 = "Mark A. A.";
+yourHowetown2 = "NYC";
+
